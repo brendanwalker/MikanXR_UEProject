@@ -1,4 +1,4 @@
-# VOX4UPlugin
-Template project for use VOX4U plugin for UE4
+# MikanXR Test App
+Test App that uses MikanXR plugin for UE4
 
-Main repository: https://github.com/mik14a/VOX4U
+Main repository: https://github.com/brendanwalker/MikanXR_UE
