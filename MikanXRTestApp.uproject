@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B61E1E78-4B31-0C1E-77EB-52BCE46EA1BA}",
+	"Category": "",
+	"Description": "MikanXR Test App",
+	"Modules": [
+		{
+			"Name": "MikanXRTestApp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "MikanXR",
+			"Enabled": true
+		}
+	]
+}
