@@ -1,0 +1,3 @@
+[submodule "Plugins/MikanXR_UE"]
+	path = Plugins/MikanXR_UE
+	url = https://github.com/brendanwalker/MikanXR_UE.git
