@@ -5,6 +5,7 @@ Build/
 # Ignore intermediate folders
 Intermediate/
 Saved/
+DerivedDataCache/
 
 # Ignore Visual Studio Solusion and Temporary files
 .vs/
