@@ -5,7 +5,8 @@ public class MikanXRTestAppEditorTarget : TargetRules
 {
 	public MikanXRTestAppEditorTarget(TargetInfo Target) : base(Target)
 	{
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.V5;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 		Type = TargetType.Editor;
 		
 		ExtraModuleNames.Add("MikanXRTestApp");
